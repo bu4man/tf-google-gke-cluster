@@ -9,6 +9,7 @@ resource "google_container_cluster" "this" {
   location = var.GOOGLE_REGION
 
   initial_node_count       = 1
+
   remove_default_node_pool = true
 
     workload_identity_config {
