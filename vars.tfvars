@@ -1,0 +1,3 @@
+GOOGLE_PROJECT="devops-420608"
+GOOGLE_REGION="europe-central2-a"
+GKE_NUM_NODES="2"
